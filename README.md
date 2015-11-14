@@ -1,3 +1,2 @@
-# BabyStep
-Git Hub Introduction
+# GitHub Introduction
 Learn hello world
